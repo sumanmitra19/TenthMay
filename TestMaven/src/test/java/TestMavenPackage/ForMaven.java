@@ -15,6 +15,6 @@ public class ForMaven {
 		WebDriver dr = new ChromeDriver();
 		dr.get("https://www.flipkart.com");
 		System.out.println("Page Title is : " + dr.getTitle());
-		System.out.println("Test Case finally passed and I'm ---->>>>> SUPER HAPPY man.hello>>>>>......");
+		System.out.println("Test Case finally passed and I'm ---->>>>> SUPER HAPPY man.hello>>>>>.......");
 	}
 }
